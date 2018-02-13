@@ -1,10 +1,7 @@
 <h1>SE Sprint 0 Tutorial Task</h1> <br/>
-<div style="position:absolute;
-	top:2000px;
-	bottom:0;
-	margin:auto;
-  border-radius: 10px;">
-<img align="right" src="logoV5.png" /></div>
+<div style="position:absolute;top:0;bottom:0;margin:auto;">
+	<img align="right" src="logoV5.png" />
+</div>
 
     Team No: C1
     Name: Hesham Morgan 37-6934
