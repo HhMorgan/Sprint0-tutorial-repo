@@ -1,0 +1,22 @@
+#cd <filepath of Sprint0 folder>
+$ git init
+$ git add "Section 1.1 Getting Started.docx"
+$ git add "3.1 Git Branching.docx"
+$ git add "5.1 Distributed Git.docx"
+$ git status
+$ git commit -m "added 3 new files"
+$ git rm -f "3.1 Git Branching.docx"
+$ git status 
+$ git commit -m "deleted 3.1 Git Branching.docx"
+$ git revert HEAD
+$ git push  "https://github.com/NourrNounou/Sprint0.git"
+$ echo "Sprint0" >>README.md
+$ git branch ReadMe
+$ git add README.md
+$ git commit -m "Add README.md file to ReadMe branch."
+$ git checkout master
+$ git merge ReadMe
+$ git add "AllMyCommands.txt"
+$ git commit -m "added the AllMyCommands.txt file to Sprint0"
+
+$ git push  "https://github.com/NourrNounou/Sprint0.git"
