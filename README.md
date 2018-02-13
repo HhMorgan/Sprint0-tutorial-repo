@@ -1,7 +1,6 @@
 <h1>SE Sprint 0 Tutorial Task</h1> <br/>
 <img align="right" src="logo.png" />
 
-<<<<<<< HEAD
     Team No
     Name
     Name
