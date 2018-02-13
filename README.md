@@ -7,6 +7,7 @@
     some nerdy guy who works with C2
     I am in team C5 and SE seems greattt.
     Hello I am a person, and I am a computer science student, a former junior teaching assistant, and I am so interested in the content of this course.
+    I Love Football
 
     This a repository examining our capabilities on using github commands while having a large team committing at the same time
 
