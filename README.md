@@ -1,6 +1,6 @@
 <h1>SE Sprint 0 Tutorial Task</h1> <br/>
 <div style="position:absolute;
-	top:50%;
+	top:2000px;
 	bottom:0;
 	margin:auto;
   border-radius: 10px;">
