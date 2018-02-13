@@ -5,6 +5,6 @@
     Ahmed Ashraf Mahmoud 34-8297
     Name
     Name
-    Namees
+    Name
 
 This a repository examining our capabilities on using github commands while having a large team committing at the same period
