@@ -3,5 +3,6 @@
 	<img align="right" src="logoV5.png" />
 </div>
 
+    I like to wander a lot around the C building for no reason when I have free time
 
 This a repository examining our capabilities on using github commands while having a large team committing at the same period
