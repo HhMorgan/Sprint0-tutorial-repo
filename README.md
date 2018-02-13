@@ -1,5 +1,5 @@
 <h1>SE Sprint 0 Tutorial Task</h1> <br/>
-<table><tr><td vlign="center"><img align="right" src="logoV5.png" /></td></tr></table>
+<img align="right" src="logoV5.png" />
 
     Team No: C1
     Name: Hesham Morgan 37-6934
