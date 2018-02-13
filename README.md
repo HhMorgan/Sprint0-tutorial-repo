@@ -1,6 +1,7 @@
-<h1>SE Sprint 0 Group task</h1> <br/>
+<h1>SE Sprint 0 Tutorial Task</h1> <br/>
 <img align="right" src="logo.png" />
 
+<<<<<<< HEAD
     Team No
     Name
     Name
@@ -21,4 +22,11 @@
     Name: Tarek Abdelrahman Badreldein 37-0761
     Name: Mahmoud Gamal Ismail 37-15638
     Name: Nour Nounou 37-2979
+    Team No: C4
+    Name: Sarah Gamal 37-4019
+    Name: Ahmed Alaa 37-9714
+    Name: Ahmed Ashraf 34-8297
+    Name: Ahmed Hani 37-14121
+    Name: Ebram Yowakem 37-19502
+
 This a repository examining our capabilities on using github commands while having a large team committing at the same period
