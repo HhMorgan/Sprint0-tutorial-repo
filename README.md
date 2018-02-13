@@ -1,8 +1,9 @@
 <h1>SE Sprint 0 Tutorial Task</h1> <br/>
 <div style="position:absolute;
-	top:0;
+	top:50%;
 	bottom:0;
-	margin:auto;">
+	margin:auto;
+  border-radius: 10px;">
 <img align="right" src="logoV5.png" /></div>
 
     Team No: C1
