@@ -11,4 +11,5 @@
     :(
      I love clothes
      I love green tea with mint.
+     I love github.
 This a repository examining our capabilities on using github commands while having a large team committing at the same time
