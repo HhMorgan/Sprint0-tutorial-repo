@@ -12,6 +12,6 @@
      I love clothes
      I love green tea with mint.
      I love github.
-		 "I love Chess" someone in C5.
+    "I love Chess" someone in C5.
 
 This a repository examining our capabilities on using github commands while having a large team committing at the same time
