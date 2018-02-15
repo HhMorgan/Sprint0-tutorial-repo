@@ -6,7 +6,8 @@
     C1 Team Members:
     Salma Zaki 37-3358
     Hesham Morgan 37-6934
-	Habiba ElHussein 37-0846
+    Habiba ElHussein 37-0846
+    Aya Ibrahim 37-1574
     I like to wander a lot around the C building for no reason when I have free time
     some nerdy guy who works with C2
     I am in team C5 and SE seems greattt.
@@ -17,6 +18,6 @@
      I love green tea with mint.
      I love github.
     "I love Chess" someone in C5.
-	 I love cooking
-
+     I love cooking
+     I love weightlifting. 
 This a repository examining our capabilities on using github commands while having a large team committing at the same time
