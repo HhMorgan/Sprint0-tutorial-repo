@@ -15,5 +15,6 @@
     "I love Chess" someone in C5.
     I'm a CS student who's trying to stay happy amidst all of our projects.
     I love cooking.
+    I love drawing mandalas.
 
 This a repository examining our capabilities in using GitHub commands whilst having a large team committing at the same time.
