@@ -3,7 +3,7 @@
 	<img align="right" src="logoV9.png" />
 </div>
 
-    I like to wander a lot around the C building for no reason when I have free time
+    My main theory in life is that the game that is called Lyfe is undeciadable
     some nerdy guy who works with C2
     I am in team C5 and SE seems greattt.
     Hello I am a person, and I am a computer science student, a former junior teaching assistant, and I am so interested in the content of this course.
