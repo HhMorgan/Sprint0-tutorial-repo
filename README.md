@@ -2,6 +2,7 @@
 <div style="position:absolute;top:0;bottom:0;margin:auto;">
 	<img align="right" src="logoV9.png" />
 </div>
+
     C1 Team Members:
     Salma Zaki 37-3358
 		Hesham Morgan 37-6934
