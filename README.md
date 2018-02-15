@@ -16,6 +16,9 @@
     I'm a CS student who's trying to stay happy amidst all of our projects.
     I love cooking.
     I love drawing mandalas.
+    Master
+    I love working out.
     I love Soccer and Writing
+
 
 This a repository examining our capabilities in using GitHub commands whilst having a large team committing at the same time.
