@@ -3,7 +3,7 @@
 	<img align="right" src="logoV9.png" />
 </div>
 
-    My main theory in life is that the game that is called Lyfe is undeciadable
+    My main theory in life is that the game that is called Lyfe is not r.e.
     some nerdy guy who works with C2
     I am in team C5 and SE seems greattt.
     Hello I am a person, and I am a computer science student, a former junior teaching assistant, and I am so interested in the content of this course.
@@ -16,5 +16,6 @@
     I'm a CS student who's trying to stay happy amidst all of our projects.
     I love cooking.
     I love drawing mandalas.
+    I love Soccer and Writing
 
 This a repository examining our capabilities in using GitHub commands whilst having a large team committing at the same time.
