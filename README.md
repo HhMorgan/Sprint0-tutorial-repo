@@ -22,3 +22,6 @@
 
 
 This a repository examining our capabilities in using GitHub commands whilst having a large team committing at the same time.
+
+C3 Members:
+Omar Labib 37-0487
