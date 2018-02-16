@@ -22,6 +22,7 @@
     I love drinking coffee.
     i love archery and sports in general
     I love Crossfit
+    I love Computer Games Someone in C2
 
 
 This a repository examining our capabilities in using GitHub commands whilst having a large team committing at the same time.
