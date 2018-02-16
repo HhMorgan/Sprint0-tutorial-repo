@@ -19,7 +19,8 @@
     Master
     I love working out.
     I love Soccer and Writing
-
+i love sports
+i love archery
 
 
 This a repository examining our capabilities in using GitHub commands whilst having a large team committing at the same time.
