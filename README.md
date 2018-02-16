@@ -20,6 +20,7 @@
     I love working out.
     I love Soccer and Writing
     I love drinking coffee.
+    i love archery and sports in general
 
 
 This a repository examining our capabilities in using GitHub commands whilst having a large team committing at the same time.
