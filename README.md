@@ -4,6 +4,14 @@
 </div>
 <h2>TODO Debug my Tutorial Title</h2>
 
+    **C1 Team Members:**
+     Salma Zaki 37-3358
+     Hesham Morgan 37-6934
+     Habiba ElHussein 37-0846
+     Aya Ibrahim 37-1574
+
+		<br/>
+
     My main theory in life is that the game that is called Lyfe is not r.e.
     some nerdy guy who works with C2
     I am in team C5 and SE seems greattt.
@@ -20,13 +28,12 @@
     Master
     I love working out.
     I love Soccer and Writing
-    I love Reading 
+    I love Reading
     I love drinking coffee.
     i love archery and sports in general
     I love Crossfit
     I love Computer Games Someone in C2
 	I Love freediving and kitesurfing
-    'No one cared who I was until I put on the mask' 
-
+    'No one cared who I was until I put on the mask'
 
 This a repository examining our capabilities in using GitHub commands whilst having a large team committing at the same time.
