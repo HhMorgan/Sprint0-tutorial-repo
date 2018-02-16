@@ -4,14 +4,13 @@
 </div>
 <h2>TODO Debug my Tutorial Title</h2>
 
-    **C1 Team Members:**
+    C1 Team Members:
      Salma Zaki 37-3358
      Hesham Morgan 37-6934
      Habiba ElHussein 37-0846
      Aya Ibrahim 37-1574
-
-		<br/>
-
+     
+    Descriptions :
     My main theory in life is that the game that is called Lyfe is not r.e.
     some nerdy guy who works with C2
     I am in team C5 and SE seems greattt.
