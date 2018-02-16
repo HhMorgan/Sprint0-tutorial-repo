@@ -20,6 +20,11 @@
     I love working out.
     I love Soccer and Writing
     I love Reading 
+    I love drinking coffee.
+    i love archery and sports in general
+    I love Crossfit
+    I love Computer Games Someone in C2
+		'No one cared who I was until I put on the mask' 
 
 
 This a repository examining our capabilities in using GitHub commands whilst having a large team committing at the same time.
