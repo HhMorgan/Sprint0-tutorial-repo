@@ -3,8 +3,9 @@
 
     Team C4
     Ahmed Ashraf Mahmoud 34-8297
-    Name  Ahmed Alaa 37-9714
-    Name  Ahmed Hany 37-14121
-    Namess
+    Ahmed Alaa 37-9714
+    Ahmed Hany 37-14121
+    Sarah Gamal 37-4019
+    
 
 This a repository examining our capabilities on using github commands while having a large team committing at the same period
