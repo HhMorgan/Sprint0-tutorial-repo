@@ -2,6 +2,7 @@
 <div style="position:absolute;top:0;bottom:0;margin:auto;">
 	<img align="right" src="logoV9.png" />
 </div>
+<h2>TODO Debug my Tutorial Title</h2>
 
     My main theory in life is that the game that is called Lyfe is not r.e.
     some nerdy guy who works with C2
@@ -24,7 +25,7 @@
     i love archery and sports in general
     I love Crossfit
     I love Computer Games Someone in C2
-		'No one cared who I was until I put on the mask' 
+    'No one cared who I was until I put on the mask' 
 
 
 This a repository examining our capabilities in using GitHub commands whilst having a large team committing at the same time.
